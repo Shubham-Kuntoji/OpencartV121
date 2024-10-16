@@ -1,0 +1,61 @@
+17:02:48.126 [main] INFO  testCases.TC001_AccountRegistrationTest ******Starting TC001_AccountRegistrationTest ******
+17:02:48.218 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on MyAccount Link
+17:02:48.667 [main] INFO  testCases.TC001_AccountRegistrationTest clicked on Register Link..
+17:02:48.674 [main] INFO  testCases.TC001_AccountRegistrationTest Providing customer details...
+17:02:49.650 [main] INFO  testCases.TC001_AccountRegistrationTest Validating expected message..
+17:03:25.374 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Shubham\eclipse-workspace\OpencartV121\master.xml
+
+17:03:31.691 [main] INFO  testCases.TC002_LoginTest ******Starting TC002_LoginTest
+17:03:37.146 [main] INFO  testCases.TC001_AccountRegistrationTest ******Starting TC001_AccountRegistrationTest ******
+17:03:37.279 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on MyAccount Link
+17:03:37.698 [main] INFO  testCases.TC001_AccountRegistrationTest clicked on Register Link..
+17:03:37.706 [main] INFO  testCases.TC001_AccountRegistrationTest Providing customer details...
+17:03:38.874 [main] INFO  testCases.TC001_AccountRegistrationTest Validating expected message..
+17:05:03.031 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Shubham\eclipse-workspace\OpencartV121\master.xml
+
+17:05:06.455 [main] INFO  testCases.TC002_LoginTest ******Starting TC002_LoginTest
+17:05:13.205 [main] INFO  testCases.TC001_AccountRegistrationTest ******Starting TC001_AccountRegistrationTest ******
+17:05:13.449 [main] INFO  testCases.TC001_AccountRegistrationTest Clicked on MyAccount Link
+17:05:13.847 [main] INFO  testCases.TC001_AccountRegistrationTest clicked on Register Link..
+17:05:13.849 [main] INFO  testCases.TC001_AccountRegistrationTest Providing customer details...
+17:05:14.889 [main] INFO  testCases.TC001_AccountRegistrationTest Validating expected message..
+17:09:31.925 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Shubham\eclipse-workspace\OpencartV121\testng2.xml
+
+17:09:38.929 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest ******Starting TC001_AccountRegistrationTest ******
+17:09:39.005 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest ******Starting TC001_AccountRegistrationTest ******
+17:09:39.117 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest Clicked on MyAccount Link
+17:09:39.200 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest Clicked on MyAccount Link
+17:09:49.269 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest Test failed..
+17:09:59.330 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest Test failed..
+17:12:06.164 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Shubham\eclipse-workspace\OpencartV121\testng2.xml
+
+17:58:03.445 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Shubham\eclipse-workspace\OpencartV121\testng2.xml
+
+17:58:10.646 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest ******Starting TC001_AccountRegistrationTest ******
+17:58:11.178 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest Clicked on MyAccount Link
+17:58:12.550 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest ******Starting TC001_AccountRegistrationTest ******
+17:58:12.628 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest clicked on Register Link..
+17:58:12.643 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest Providing customer details...
+17:58:22.722 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest Test failed..
+17:58:22.809 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest Clicked on MyAccount Link
+17:58:24.758 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest clicked on Register Link..
+17:58:24.760 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest Providing customer details...
+17:58:25.142 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest Test failed..
+18:01:18.746 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Shubham\eclipse-workspace\OpencartV121\testng2.xml
+
+18:01:25.265 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest ******Starting TC001_AccountRegistrationTest ******
+18:01:26.750 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest ******Starting TC001_AccountRegistrationTest ******
+18:01:26.890 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest Clicked on MyAccount Link
+18:01:27.621 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest clicked on Register Link..
+18:01:27.625 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest Providing customer details...
+18:01:27.648 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest Test failed..
+18:01:28.541 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest Test failed..
+18:11:16.830 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Shubham\eclipse-workspace\OpencartV121\testng2.xml
+
